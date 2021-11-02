@@ -1,1 +1,12 @@
 ### WELCOME TO MY PROFILE
+
+### PYTHON
+```
+#!/usr/bin/python
+#coding=utf-8
+
+def main():
+    print("I LOVE PYTHON")
+
+main()
+```
