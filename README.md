@@ -20,3 +20,6 @@ main()
 <p align="center">
   <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P4HRUL&layout=compact&theme=chartreuse-dark">
 </p>
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Azim-vau&layout=compact&theme=chartreuse-dark" /> <br>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Azim-Vau&repo=Crack-Pro&theme=chartreuse-dark" /> <br>
