@@ -8,10 +8,8 @@ def main():
 
 main()
 ```
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=P4HRUL&repo=THEME&theme=chartreuse-dark" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=P4HRUL&repo=PYENC&theme=chartreuse-dark" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=P4HRUL&repo=BRUTE&theme=chartreuse-dark" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=P4HRUL&repo=BOT&theme=chartreuse-dark" />
 
-<p align="center">
-<a href="https://github.com/P4HRUL/THEME"><img title="THEME" src="https://github-readme-stats.vercel.app/api/pin/?username=P4HRUL&repo=THEME&theme=vision-friendly-dark"></a>
-<a href="https://github.com/P4HRUL/PYENC"><img title="PYENC" src="https://github-readme-stats.vercel.app/api/pin/?username=P4HRUL&repo=PYENC&theme=dark"></a>
-<a href="https://github.com/P4HRUL/BRUTE"><img title="BRUTE" src="https://github-readme-stats.vercel.app/api/pin/?username=P4HRUL&repo=BRUTE&theme=vision-friendly-dark"></a>
-<a href="https://github.com/P4HRUL/BOT"><img title="BOT" src="https://github-readme-stats.vercel.app/api/pin/?username=P4HRUL&repo=BOT&theme=tokyonight"></a>
-</p>
