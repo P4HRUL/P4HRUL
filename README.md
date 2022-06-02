@@ -8,3 +8,4 @@ def main():
 
 main()
 ```
+<a href="https://github.com/P4HRUL/THEME"><img title="THEME" src="https://github-readme-stats.vercel.app/api/pin/?username=P4HRUL&repo=THEME&theme=vision-friendly-dark"></a>
