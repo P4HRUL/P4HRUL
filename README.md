@@ -3,10 +3,7 @@
 </p>
 
 # MR.P4HRUL
-<p align="left">
 
-<a href="#"><img title="Coding by Pahrul XD." src="https://img.shields.io/badge/Coding%20BY-Pahrul ID-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> 
-<p align="center"
 
 <a href="https://github.com/P4HRUL/THEME"><img title="THEME" src="https://github-readme-stats.vercel.app/api/pin/?username=P4HRUL&repo=THEME&theme=vision-friendly-dark"></a>
 <a href="https://github.com/P4HRUL/PYENC"><img title="PYENC" src="https://github-readme-stats.vercel.app/api/pin/?username=P4HRUL&repo=PYENC&theme=vision-friendly-dark"></a>
