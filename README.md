@@ -8,11 +8,5 @@ def main():
 
 main()
 ```
-<a href="https://github.com/James404-cyber/PROHACK"><img title="PROHACK" src="https://github-readme-stats.vercel.app/api/pin/?username=James404-cyber&repo=PROHACK&theme=vision-friendly-dark"></a>
-<a href="https://github.com/James404-cyber/PROHACK"><img title="PROHACK" src="https://github-readme-stats.vercel.app/api/pin/?username=James404-cyber&repo=PROHACK&theme=vision-friendly-dark"></a>
-<a href="https://github.com/James404-cyber/PROHACK"><img title="PROHACK" src="https://github-readme-stats.vercel.app/api/pin/?username=James404-cyber&repo=PROHACK&theme=vision-friendly-dark"></a>
-<a href="https://github.com/James404-cyber/PROHACK"><img title="PROHACK" src="https://github-readme-stats.vercel.app/api/pin/?username=James404-cyber&repo=PROHACK&theme=vision-friendly-dark"></a>
-
-
-
+<a href="https://github.com/P4HRUL/THEME"><img title="THEME" src="https://github-readme-stats.vercel.app/api/pin/?username=P4HRUL&repo=THEME&theme=vision-friendly-dark"></a>
 
